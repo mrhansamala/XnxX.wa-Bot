@@ -16,10 +16,6 @@
 
 <a href='https://replit.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-You will get pair code when you run the above replit. After scanning pair code you will get  `session id` in your personal chat, copy to past the  `config.cjs` file in your project directory. 
-
-
-
 
  ##  Deploy Methods
      
