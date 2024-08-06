@@ -1,0 +1,24 @@
+{
+    "name": "xnxx-wabot",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLnNpYXNuYW1ha3NqYV9zY3JlZW5fMF8xNjU3NjE2Mzk4XzA4OA/screen-0.jpg?fakeurl=1&type=.jpg",
+    "description": "xnxx video download bot",
+    "stack": "container",
+    "env": {
+        "_XNXX_SESSION": {
+            "description": "session ID",
+            "required": true,
+            "value":"XNXX;;;VyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InU0N2hUMUM2YjVvcjZmaFpQU25rakpxUW53RkhXaUd5ZGdNeFFJYWE0N1diVGxDaHJhR2RFVXdVYk13K0l5R0kzU04wMW4xUkpsM284QStRSmZseUJRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6ODMsImFkdlNlY3JldEtleSI6InJNVXhDcW91YVJKd1hVV3VHVEJ5L3FHU2UyVVRFVEp1c0YwbnZWaWUzT1E9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiOTQ3MDExOTc0NTJAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiRjAwRDI1NzYxRTE0NUE1NTNGNjRENEM1M0E1NEFCODYifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMjk1ODQ2N30seyJrZXkiOnsicmVtb3RlSmlkIjoiOTQ3MDExOTc0NTJAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQkIyN0VDOUI5ODA1MTY2NkUwQUM4QzUyQUMyRTkyQTIifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMjk1ODQ2OH1dLCJuZXh0UHJlS2V5SWQiOjMyLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzIsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjp0cnVlfSwiZGV2aWNlSWQiOiJpVmFlNEJXa1FhcVlUenJjRWcyMHB3IiwicGhvbmVJZCI6ImI3MjZjY2RhLTcyYzktNDhhZi05MDJhLTNkNDJmNzNhYjMwZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJsWFg1UEdkM3ZyUWxORmcyME5WTFZGcVpKYUU9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InhtUWxxdDFMT01IU3lTS1d5NzRLRkRjeTVQQT0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ091MzRLa0VFUDJFeWJVR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InlaOExuOEJwRnBsdkIrWWsyMjdwT0NmRTVYT2xYd1N1RC9HWHhOeXBjd289IiwiYWNjb3VudFNpZ25hdHVyZSI6IkZ0LzBEenhrOVJWT3ZvM0VwRDVtRUoxV0x1NElnN1k5SDNLRnp1Unp5MXo0Y3BadDFmWUtvd3lsT0o2N0M3c1dlU1huVzdYUC9yK0xPQTJROHMzNEJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJuTUtBaXg3YzhNNVlTMDg0eExSNnM5aDNPKzVDVS9tWVFpeW9pTWo1ZkdDN1kxQkZpNUJMclpkdFJLVStMZ1cwQ3Z1ckNscXRkT2o3Rzd4YVI0Q05DQT09In0sIm1lIjp7ImlkIjoiOTQ3MDExOTc0NTI6NDdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoie/CdmbzwnZqBX/CdmbfwnZmw8J2ZvfCdmoLwnZmw8J2ZvPCdmbDwnZm78J2ZsH07In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6Ijk0NzAxMTk3NDUyOjQ3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmNtZkM1L0FhUmFaYndmbUpOdHU2VGdueE9WenBWOEVyZy94bDhUY3FYTUsifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjI5NTg0NjQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBT3MyIn0="
+        },
+        "WORK_TYPE": {
+            "description": "public or private",
+            "required": true,
+            "value": "public"
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
