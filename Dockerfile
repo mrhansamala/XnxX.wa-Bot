@@ -6,4 +6,4 @@ ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["node", "xnxx.js"]
+CMD ["node", "index.js"]
